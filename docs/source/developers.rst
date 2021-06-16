@@ -21,7 +21,8 @@ To be continued...
 THC
 ***
 
-ToDo
+THC stands Torch Height Control. To achieve optimal cutting with plasma, it is important to keep the torch tip-to-plate distance constant at about 0.06" (1.5mm).
+The voltage and the distance between torch tip and plate / cutting material being directly proportional, THC is a feedback loop controlling the height of the plasma torch, maintaing a constant distance to the material.
 
 JIT input
 *********
